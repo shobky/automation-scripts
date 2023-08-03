@@ -9,7 +9,7 @@ def main():
 
 	folder = "catalog"
 	for count, filename in enumerate(os.listdir(folder)):
-		dst = f"ew{str(count)}.jpg"
+		dst = f"ew{str(count)}.jpg" #ew1.jpg
 		src =f"{folder}/{filename}" # foldername/filename, if .py file is outside folder
 		dst =f"{folder}/{dst}"
 		

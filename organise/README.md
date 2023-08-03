@@ -1,0 +1,3 @@
+# DIRECTORY ORGANISER
+
+orgnaizes the folder containig the script, putting .png, .jpg in Images folder and .pdf, .txt in Documents folder etc...
